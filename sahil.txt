@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3C46-1FF7
+
+ Directory of C:\Users\sahigarg\repo2
+
+23-02-2022  16:49    <DIR>          .
+23-02-2022  16:49    <DIR>          ..
+23-02-2022  16:49                 0 sahil.txt
+23-02-2022  14:53               347 test.txt
+               2 File(s)            347 bytes
+               2 Dir(s)  451,881,848,832 bytes free
