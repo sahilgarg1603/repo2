@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3C46-1FF7
+
+ Directory of C:\Users\sahigarg\Desktop\myproject
+
+23-02-2022  14:53    <DIR>          .
+23-02-2022  14:53    <DIR>          ..
+23-02-2022  14:53                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  452,400,922,624 bytes free
